@@ -45,4 +45,4 @@ Built with **React Native**, **Firebase**, and **Android Accessibility Services*
 ## 📬 Reach Me
 
 - 📧 Godsmarkaustin68@gmail.com
-- 🐦 
+- 🐦 [@GeniusHTH](https://x.com/GeniusHTH)
